@@ -4,6 +4,8 @@ Tools for work with FGIS Arshin and subsites of FSA
 
 Утилита **mettools** для работы с [ФИФ Аршин](https://fgis.gost.ru/#!/mt) и [Интерактивным помошником](https://support.fsa.gov.ru).
 
+Работает под Windows, MacOS X, GNU/Linux.
+
 Возможности:
 
 - [X] Отправка сведений о поверке через Интерактивный помошник ФСА.
