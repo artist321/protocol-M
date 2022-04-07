@@ -11,6 +11,12 @@ Tools for work with FGIS Arshin and subsites of FSA
 - [X] Отправка сведений о поверке через Интерактивный помошник ФСА.
 - [X] Просмотр расширенной информации о поверке из ФИФ Аршин (ФИО поверителя, условия поверки, причину непригодности)
 
+<p align="center">
+<img 
+    src="Screen_Win10.png" 
+    width="600" height="300" border="0" alt="mettools on win">
+<br>
+
 В разработке:
 
 - [ ] Экспорт ФИФ ОЕИ в MS Excel, SQLite
